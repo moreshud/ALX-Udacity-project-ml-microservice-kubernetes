@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![moreshud](https://circleci.com/gh/moreshud/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/moreshud/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
